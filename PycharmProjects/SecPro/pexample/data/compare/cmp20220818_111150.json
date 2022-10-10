@@ -1,0 +1,12 @@
+[
+    {
+        "replace": "/name",
+        "value": "苹果",
+        "prev": "华为"
+    },
+    {
+        "replace": "/info/phoneName/1",
+        "value": "苹果12",
+        "prev": "Mate40"
+    }
+]

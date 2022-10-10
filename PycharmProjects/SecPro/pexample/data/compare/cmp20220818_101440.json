@@ -1,0 +1,12 @@
+[
+    {
+        "replace": "/case1",
+        "value": "hello",
+        "prev": "hello2"
+    },
+    {
+        "replace": "/case2",
+        "value": 2,
+        "prev": 22
+    }
+]
